@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 174.7667,
+    "lat": -36.8667
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 297.59,
+    "feels_like": 297.73,
+    "temp_min": 296.66,
+    "temp_max": 298.83,
+    "pressure": 1017,
+    "humidity": 63
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.81,
+    "deg": 186,
+    "gust": 9.39
+  },
+  "clouds": {
+    "all": 52
+  },
+  "dt": 1641944569,
+  "sys": {
+    "type": 2,
+    "id": 2012285,
+    "country": "NZ",
+    "sunrise": 1641921271,
+    "sunset": 1641973382
+  },
+  "timezone": 46800,
+  "id": 2193733,
+  "name": "Auckland",
+  "cod": 200
+}
